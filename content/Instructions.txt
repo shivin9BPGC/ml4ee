@@ -11,3 +11,4 @@
 3. Follow the right naming convention while uploading the files. Incorrect file names will not be entertained.
 4. Your ipython notebooks should be clean and well commented. Spaghetti code is discouraged.
 5. If you make temporary files, uplaod them into quanta as well with the right naming conventions.
+6. Deep Learning libraries like Pytorch, Tensorflow are not allowed. If you require DL, consider coding it up in numpy etc.
