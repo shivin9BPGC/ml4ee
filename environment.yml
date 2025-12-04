@@ -15,3 +15,7 @@ dependencies:
 
   # Utilities
   - joblib
+
+# Communication and Widget Dependencies (NEW ADDITIONS)
+  - ipywidgets
+  - widgetsnbextension
