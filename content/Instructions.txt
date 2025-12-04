@@ -1,0 +1,13 @@
+0. Every question is present in the questions folder.
+
+1. The corresponding data files for that question are in the data/q_x folder
+
+2. For every question, you have to upload the following:
+    2.1 The specified files mentioned in the question
+    2.2 The jupyterlite .ipynb notebook itself. Make sure that it compiles properly end-to-end otherwise it will not be accepted
+    2.3 Your entire chat history with Deepseek
+    2.4 Upload the answer files (in their corresponding questions) in quiz section in quanta named - Comprehensive Exam (Part B)
+
+3. Follow the right naming convention while uploading the files. Incorrect file names will not be entertained.
+4. Your ipython notebooks should be clean and well commented. Spaghetti code is discouraged.
+5. If you make temporary files, uplaod them into quanta as well with the right naming conventions.
