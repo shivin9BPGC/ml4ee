@@ -1,0 +1,21 @@
+# environment.yml
+name: ml4ee
+channels:
+  - conda-forge
+dependencies:
+  # Core ML/Scientific Stack
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+
+  # Visualization
+  - matplotlib
+  - seaborn
+
+  # Utilities
+  - joblib
+
+# Communication and Widget Dependencies (NEW ADDITIONS)
+  - ipywidgets
+  - widgetsnbextension
